@@ -2,7 +2,7 @@
 """
 Created on Tue Aug 20 14:25:04 2019
 
-@author: major
+@author: tshele
 """
 
 # Importing the libraries
